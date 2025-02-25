@@ -18,6 +18,7 @@ void subtrair(int a, int b)
 int main()
 {
     printf("Olá, Estudante!\n");
+    printf("Abaixo temos alguns cálculos : \n");
     soma(5, 3);
     multiplica(5, 3);
     subtrair(5, 3);
